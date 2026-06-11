@@ -22,6 +22,12 @@ Visualize patterns in dataset
 ## Output
 Clear and meaningful visualizations
 
+## Approach
+- Created Bar Chart
+- Generated Histogram
+- Built Scatter Plot
+- Compared multiple features
+  
 ## Results
 - Species distribution visualized
 - Feature relationships identified
