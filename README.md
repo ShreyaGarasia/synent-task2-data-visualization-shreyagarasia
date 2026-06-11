@@ -12,14 +12,14 @@ Visualize patterns in dataset
 | Records | 150 |
 | Features | Sepal Length, Sepal Width, Petal Length, Petal Width, Species |
 
-## Tasks:
+## Tasks
 - Create:
 - Bar chart
 - Histogram
 - Scatter plot
 - Compare features
 
-## Output:
+## Output
 Clear and meaningful visualizations
 
 ## Results
